@@ -7,7 +7,7 @@ function BackendLoader() {
       Setting up the environment for you.<br />
       <span className="text-xl font-semibold text-[#8B949E] block mt-4">
         💤 The backend server was asleep due to inactivity.<br />
-        It's now restarting — please wait a few seconds...
+        It's now restarting — please wait a few seconds.....
       </span>
     </h2>
   </div>
